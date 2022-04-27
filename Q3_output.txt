@@ -1,0 +1,78 @@
+﻿For example, if the dice value for if if the dice value or the that block value in which the counter is right now is five so I have assigned five already that five is a ladder, so then it will increase and for example if 12 is a snake then I've already defined that at 12 you need to decrement the value by for example FIFO or whatever. 
+ 
+Okay what are the ethical values Tcs have?
+ 
+sir like I said there is a work life balance and it a it it promotes like gender equality ,there is no like discrimination on the basis of that. but it is too long like we will have to write the code many times in switch
+ 
+why many times we can define a in switch global or anywhere then we can use it
+ 
+cause switch for snake and switch for a ladder two separate switches we can use yes sir that we can
+ 
+ahh 
+ 
+ Sir I choose Tcs only because Tcs is like almost hundred and fifty years old company so it it has a very good job security. 
+ 
+a sir I compare both the companies in terms of the
+ 
+defiantly I’ve told the tcs is the tier one and you've got the offer from tier two it means the startup or midsize company with the package for example, we are giving you four lakh they are giving you eight lakh in that case what do you do? 
+ 
+Sir technically the latest I want to go with latest technical skills, like not obsolete technologies, but the latest technologies. 
+ 
+So firstly the one should look if there is a lot to learn from the company, I mean, there should be a very steep like growing curve in the company. So ahh using these we can a define the scope of the variables or the functions like if it is public then it can be used all through and if it is protected then only the subclasses can use it and if private then only the current class can use it. so a variable in which we will take a random function with the help of random function, we can derive a number between one to six and for the first for the first move, if the numbers random number is six, then we can move like we can keep a counter of the player. Yeah, as per your own analysis, you said you're a good team player and what requirements you said for a good job in case you have those qualities I'm sure you will be able to fit into. 
+ 
+Sure firstly sir ahh tcs is has a brand name, it is known it is a multinational company and it has a very good brand name and thus it would give me a good start for my career. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. 
+ 
+Sir maybe it is job satisfaction because they enter a company without a a seeing the background of the company and then they later find out that the company was not suitable for them. Secondly, they should be like the colleagues and everything should be very frank so that they help you in every way and thirdly  for me there should be a brand name so that there is a satisfaction that yes I have achieved a level and now I can go to the next level. Fourthly, as Tcs is a multinational company, I would like to I would have the chance to even uhh go abroad and a meet a people of different nationalities. 
+ 
+If we are using C then and C++, Java there we doesn't have any dictionary
+ 
+Then sir we can ah we can use array of arrays and then like make dictionary with the help of arrays
+ 
+ 
+ 
+Okay sir ill keep that in mind thankyou so much sir all the best thank you
+ 
+A from my side and rathor sir interview my remark for you definitely you are the good candidate that we have already observed many time ahh technical knowledge I have not checked out your head of department CAC will check it out but a you can easily correct the process. Tcs also provide like conc simultaneously highest studies So that may also be a very good option. 
+ 
+My next is the how you will how you will determine whether to you have to increment its dice value means you you own to use it's increasing the counter value in form of ladder 
+ 
+So I can use a dictionary to like if I'm doing in Python then I can use it dictonary. And I want to a learn as much ah like as much languages and as much skills as I can Okay sir ah so ah firstly a we will the will like a this for example of how how many columns are there for example, I take disk of fifty the maximum we take a fifty
+For example, if the dice value for if if the dice value or the that block value in which the counter is right now is five so I have assigned five already that five is a ladder, so then it will increase and for example if 12 is a snake then I've already defined that at 12 you need to decrement the value by for example FIFO or whatever. 
+ 
+Okay what are the ethical values Tcs have?
+ 
+sir like I said there is a work life balance and it a it it promotes like gender equality ,there is no like discrimination on the basis of that. but it is too long like we will have to write the code many times in switch
+ 
+why many times we can define a in switch global or anywhere then we can use it
+ 
+cause switch for snake and switch for a ladder two separate switches we can use yes sir that we can
+ 
+ahh 
+ 
+ Sir I choose Tcs only because Tcs is like almost hundred and fifty years old company so it it has a very good job security. 
+ 
+a sir I compare both the companies in terms of the
+ 
+defiantly I’ve told the tcs is the tier one and you've got the offer from tier two it means the startup or midsize company with the package for example, we are giving you four lakh they are giving you eight lakh in that case what do you do? 
+ 
+Sir technically the latest I want to go with latest technical skills, like not obsolete technologies, but the latest technologies. 
+ 
+So firstly the one should look if there is a lot to learn from the company, I mean, there should be a very steep like growing curve in the company. So ahh using these we can a define the scope of the variables or the functions like if it is public then it can be used all through and if it is protected then only the subclasses can use it and if private then only the current class can use it. so a variable in which we will take a random function with the help of random function, we can derive a number between one to six and for the first for the first move, if the numbers random number is six, then we can move like we can keep a counter of the player. Yeah, as per your own analysis, you said you're a good team player and what requirements you said for a good job in case you have those qualities I'm sure you will be able to fit into. 
+ 
+Sure firstly sir ahh tcs is has a brand name, it is known it is a multinational company and it has a very good brand name and thus it would give me a good start for my career. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. 
+ 
+Sir maybe it is job satisfaction because they enter a company without a a seeing the background of the company and then they later find out that the company was not suitable for them. Secondly, they should be like the colleagues and everything should be very frank so that they help you in every way and thirdly  for me there should be a brand name so that there is a satisfaction that yes I have achieved a level and now I can go to the next level. Fourthly, as Tcs is a multinational company, I would like to I would have the chance to even uhh go abroad and a meet a people of different nationalities. 
+ 
+If we are using C then and C++, Java there we doesn't have any dictionary
+ 
+Then sir we can ah we can use array of arrays and then like make dictionary with the help of arrays
+ 
+ 
+ 
+Okay sir ill keep that in mind thankyou so much sir all the best thank you
+ 
+A from my side and rathor sir interview my remark for you definitely you are the good candidate that we have already observed many time ahh technical knowledge I have not checked out your head of department CAC will check it out but a you can easily correct the process. Tcs also provide like conc simultaneously highest studies So that may also be a very good option. 
+ 
+My next is the how you will how you will determine whether to you have to increment its dice value means you you own to use it's increasing the counter value in form of ladder 
+ 
+So I can use a dictionary to like if I'm doing in Python then I can use it dictonary. And I want to a learn as much ah like as much languages and as much skills as I can Okay sir ah so ah firstly a we will the will like a this for example of how how many columns are there for example, I take disk of fifty the maximum we take a fifty

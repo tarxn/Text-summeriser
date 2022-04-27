@@ -1,0 +1,31 @@
+﻿Q1. 
+Answer:  we will use NLP(natural language processing) to solve this problem, this problem demands extractive summarization, which means finding the insights from the document itself (without altering the sentences).
+We will proceed this problem this following steps:
+1. Convert the input into sentences, we will use spacy library for splitting the sentences into list and tokenizing them.
+2. Tokenizing the words, finding frequency of each word in the input file.
+3. Removing the stopwords(most common words like ‘a’ , ‘the’, ‘I’, and punctuations) from the word_token dict.
+4. Calculate the weight of each word by dividing frequencies by maximum frequency.
+5. Calculating the weight of sentence by adding weight of words, we will get the score of sentence after this.
+6. We will take the take the top 15%(as per the choice) of the sentences to get the summary of the input.
+
+
+Q2.
+Answer:
+*  we can use simple transformers library, install simpletransformers using pip. 
+*  summarizer require sequence to sequence model i.e., encoder-decoder model so we can use bart model which is prepared by facebook. Using command ‘from simpletransformers.seq2seq import Seq2SeqModel,Seq2SeqArgs’ (seq2seqArgs for setting parameters of the model).
+* Setting the parameters of the model the code looks something like this:
+model_args = Seq2SeqArgs()
+model_args.num_train_epochs = 10
+model_args.no_save = True
+model_args.evaluate_generated_text = True
+model_args.evaluate_during_training = True
+model_args.evaluate_during_training_verbose = True
+* Building the model,
+model = Seq2SeqModel(
+    encoder_decoder_type="bart",
+    encoder_decoder_name="facebook/bart-large",
+    args=model_args,
+    use_cuda=True,
+) 
+* After preparing the model we need to train the model using training data set. Training set looks something like this,
+train_set = [ [‘input1’,’summary1’],[‘input2’,’summary2’],,,,,,,]      —->nx2 matrix(where n is the no of training sets)
